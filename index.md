@@ -16,7 +16,7 @@ Experiments at the bench require a variety of approaches – from tested protoco
 to trial-and-error. Bioinformatics is also an experimental science, otherwise we
 could use the same software and same parameters for every genome assembly.
 Learning to code opens up the full possibilities of computing, especially given
-that most bioinformatics tools exist only at the command line. Think of it this
+that most bioinformatic tools exist only at the command line. Think of it this
 way: if you could only do molecular biology using a kit, you could probably
 accomplish a fair amount. However, if you don’t understand the biochemistry of
 the kit, how would you troubleshoot? How would you do experiments for which
@@ -47,7 +47,7 @@ exercises in class, re-do them on your own, and then work on your own problems.
 >    approach to bioinformatics that treats it like any other experiment. There
 >    are probably a variety of metaphors we could employ (data are our
 >    reagents, scripts are our protocols, etc.), but the most important idea of
->    the mindset is to remind you that as a researcher, you need to employee all
+>    the mindset is to remind you that as a researcher, you need to employ all
 >    of your training in the bench or field to working with analyses. Evaluate
 >    results critically, and don't expect that things will always work the first
 >    time, or that they will always work in the same way.
